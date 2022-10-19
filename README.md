@@ -2,6 +2,17 @@
 
 This component is made with help of uiverse.io
 
+Component Link :- https://killertian.github.io/Day-Night-Switch/
+
+Preview
+
+Day
+![image](https://user-images.githubusercontent.com/77867638/196764854-93fd19a0-b175-4670-94a9-f9cf417b2700.png)
+
+Night
+![image](https://user-images.githubusercontent.com/77867638/196765113-e1a2a705-25ef-43b8-8940-329874f875ae.png)
+
+
 # License
 
 MIT License
